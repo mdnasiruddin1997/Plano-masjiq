@@ -1,483 +1,51 @@
 @media (max-width: 1920px) {
-  .main-menu .navbar-expand-lg .navbar-nav .nav-link {
-    padding: 15px 22px 10px 22px;
-  }
+
 }
 
 @media (max-width: 1680px) {
-  .main-menu .navbar-expand-lg .navbar-nav .nav-link {
-    padding: 15px 22px 10px 22px;
-  }
+
 }
 
 @media (max-width: 1600px) {
-  .main-menu.navbar-expand-lg .navbar-nav .nav-link {
-    padding: 15px 22px 10px 22px;
-  }
+
 }
 
 @media (max-width: 1536px) {
-  .main-menu .navbar-expand-lg .navbar-nav .nav-link {
-    padding: 15px 20px 10px 20px;
-  }
 
 }
 
 @media (max-width: 1440px) {
-  .main-menu .navbar-expand-lg .navbar-nav .nav-link {
-    padding: 15px 14px 10px 14px;
-  }
-
-  .description-left {
-    .card-news {
-      h2 {
-        font-size: 36px;
-      }
-    }
-  }
+ 
 }
 
 @media (max-width: 1366px) {
-  .main-menu .navbar-expand-lg .navbar-nav .nav-link {
-    padding: 15px 13px 10px 13px;
-  }
+ 
 }
 
 @media (max-width: 1280px) {
-  .main-menu .navbar-expand-lg .navbar-nav .nav-link {
-    padding: 15px 10px 10px 10px;
-  }
+ 
 }
 
 @media (max-width: 1200px) {
-  .navbar-nav .nav-item a {
-    font-size: 14px;
-  }
-
-  .campuse-speaking-content {
-    padding: 20px 0 6px 5.5rem;
-  }
-
-  .nav-pills .nav-link {
-    margin-right: 3.6rem;
-    font-size: 20px;
-  }
-
-  .speaking-icon {
-    top: 0px;
-    left: 54px;
-  }
-
-  .description-left {
-    .card-news {
-      h2 {
-        font-size: 30px;
-        line-height: 2rem;
-      }
-    }
-  }
+ 
 }
 
 @media (max-width: 1024px) {
-  .main-menu .navbar-expand-lg .navbar-nav .nav-link {
-    padding: 15px 10px 10px 12px;
-  }
-
-  .main-menu .navbar-toggler {
-    width: 100%;
-    box-shadow: none !important;
-  }
-
-  .main-menu .navbar-collapse ul li {
-    border-bottom: 1px solid var(--border);
-    ;
-  }
-
-  .main-menu :focus-visible {
-    outline: -webkit-focus-ring-color auto 0 !important;
-    box-shadow: none !important;
-  }
-}
-
-@media all and (min-width: 992px) {
-  .dropdown-menu {
-    width: 100%;
-  }
-
-  .mega-submenu {
-    left: 100%;
-    top: 0;
-    min-width: 25rem;
-  }
-
-  .ktm-mega-menu {
-    position: static;
-  }
-
-  .navbar-expand-lg .navbar-nav .dropdown-menu {
-    position: absolute;
-  }
-
-  .mega-menu {
-    right: 0;
-    width: 100%;
-    border: none;
-    border-radius: 0px;
-    border-bottom: 2px solid var(--secondary-color);
-  }
-
-  .dropdown-menu li {
-    position: relative;
-  }
-
-  .dropdown-menu .submenu {
-    display: none;
-    left: 100%;
-    top: 0;
-  }
-
-  .dropdown-menu>li:hover>.submenu,
-  .dropdown:hover>.dropdown-menu {
-    display: block;
-  }
-
+ 
 }
 
 @media (max-width: 992px) {
-  .editor-Column .col-lg-3:nth-child(3) .editor-content .card-news {
-    border-right: none;
-  }
-
-  .campuse-speaking-content {
-    padding: 1rem 17px 5px 12px;
-  }
-
-  .politics {
-    border: none;
-  }
-
-  /* category */
-  .cricket-item .card-news {
-    border-bottom: 0px;
-    padding-bottom: 10px;
-  }
-
-  .cricket-item {
-    p {
-      padding-bottom: 1rem;
-    }
-  }
-    /*  description */
-    
-  .description-left {
-    .card-news {
-      h2 {
-        font-size: 20px;
-      }
-    }
-  }
-
-  .description-left {
-    .card-news {
-      h4 {
-        font-size: 30px;
-        line-height: 2.5rem;
-      }
-    }
-  }
-  .agent{
-    p{
-      font-size: 12px;
-    }
-  }
+  
 }
 
 @media (max-width: 768px) {
-  .breaking-middle {
-    border: none;
-  }
-
-  .speaking-icon {
-    top: 45px;
-    left: 142px;
-  }
-
-  .campuse-speaking-content {
-    padding: 1rem 17px 5px 50px;
-  }
-
-  /* description */
-
-  .discription-footer {
-    border-top: none;
-    padding-top: 0px;
-    margin-top: 15px;
-  }
-
-  .sub-pagination {
-    .page-item:last-child {
-      padding-left: 3rem;
-    }
-
-    .page-item:first-child {
-      padding-right: 3rem;
-
-    }
-  }
-
-  .cricket-content .ongoing-item {
-    border-right: none;
-    padding-right: 0px;
-    padding-left: 0px;
-
-    h6 {
-      border-bottom: 0px;
-    }
-  }
-
-  .football-content {
-    .card-news {
-      margin-bottom: 4px;
-    }
-
-    .football-right {
-      border-right: none;
-      padding-right: 0px;
-      margin-bottom: 12px;
-    }
-  }
-
-  .badminton-left,
-  .badminton-right {
-    .card-news {
-      margin-bottom: 5px;
-      padding-bottom: 8px;
-    }
-  }
-
-  /* category */
-  .cricket-item {
-    border-left: 0px;
-    padding-left: 0px;
-  }
+  
 }
 
 @media (max-width: 576px) {
 
-  .editor-content .card-news {
-    border-right: none;
-  }
-
-  .quote-box {
-    padding: 25px;
-  }
-
-  .quote-icon {
-    font-size: 60px;
-    top: -15px;
-  }
-
-  .quote-text {
-    font-size: 18px;
-  }
-
-  .top-menu {
-    .top-date {
-      text-align: center;
-    }
-  }
 }
 
 @media (max-width: 520px) {
-  .news-headline-title {
-    h4 {
-      font-size: 18px;
-    }
-  }
-
-  p {
-    font-size: 13px;
-  }
-
-  .card-news h6 {
-    font-size: 14px;
-
-  }
-
-  .global-news h6 {
-    font-size: 14px;
-
-  }
-
-  .sport-title h6 {
-    font-size: 20px;
-  }
-
-  .brakeing-middle {
-    border: none;
-  }
-
-  .international h6 {
-    font-size: 14px;
-  }
-
-  .ads-part {
-    padding: 1rem 0 1rem 0;
-    margin-bottom: 0px;
-  }
-
-  .campuse-speaking-content {
-    padding: 1px 17px 5px 20px;
-  }
-
-  .speaking-icon {
-    top: 19px;
-    left: 44px;
-  }
-
-  .nav-pills .nav-link {
-    margin-right: 1.6rem;
-    font-size: 15px;
-  }
-
-  .tranding {
-    margin-top: 0px;
-  }
-
-  .international-tranding-news .card-news {
-    padding-right: 0px;
-
-    h6 {
-      font-size: 15px;
-    }
-  }
-
-  .editor-content .card-news {
-    border-right: none;
-    margin-bottom: 5px;
-    padding-bottom: 5px;
-  }
-
-  .employmment-card .card-news {
-    h6 {
-      font-size: 15px;
-    }
-  }
-
-  .district-title {
-    margin-top: 0px;
-  }
-
-  .district-card {
-    padding-bottom: 0px;
-  }
-
-  .district-card .district-card-part {
-    margin-bottom: 10px;
-    padding-bottom: 10px;
-  }
-
-  .picture-item h6 {
-    font-size: 14px;
-    padding-top: 7px;
-  }
-
-  .ongoing {
-    padding-top: 0px;
-  }
-
-  .ongoing-item h6 {
-    font-size: 14px;
-  }
-
-  .footer-part {
-    padding-top: 15px;
-  }
-
-  /* description */
-
-  .description-date {
-    margin-bottom: 18px;
-    padding-bottom: 0px;
-
-    .news-meta {
-      ul li {
-        font-size: 11px;
-      }
-    }
-
-    .agent {
-      margin-top: -6px;
-
-      p {
-        font-size: 11px;
-      }
-    }
-  }
-
-  .description-left {
-    .card-news {
-      h4 {
-        font-size: 20px;
-        line-height: 2rem;
-      }
-
-      p {
-        line-height: 24px;
-      }
-    }
-  }
-
-  .description-right {
-    img {
-      margin-top: 20px;
-    }
-  }
-
-  .top-category {
-    margin-bottom: 5px;
-    padding-bottom: 5px;
-  }
-
-  .football-content .card-news {
-    margin-bottom: 5px;
-    padding-bottom: 5px;
-  }
-
-  .football-right .card-news {
-    margin-bottom: 5px;
-    padding-bottom: 5px;
-  }
-
-  .badminton-right .card-news {
-    margin-bottom: 10px;
-    padding-bottom: 5px;
-  }
-
-  .cricket-content .ongoing-item {
-    h6 {
-      border-bottom: 0px;
-      padding: 5px 0 5px 0;
-      margin-bottom: 10px;
-    }
-  }
-
-  .sub-pagination {
-    margin: 15px;
-
-    .page-item a {
-      padding: 5px;
-      font-size: 14px;
-    }
-
-    .page-item:last-child {
-      padding-left: 15px;
-    }
-
-    .page-item:first-child {
-      padding-right: 15px;
-
-    }
-  }
-
+  
 }
