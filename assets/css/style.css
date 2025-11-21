@@ -5,7 +5,8 @@
 :root{
   --font-primary:"El Messiri", sans-serif;
   --font-secndery:"Outfit", sans-serif;
-  --primary-color:#27b4c2;
+  --primary-color:#000000;
+  --secendery-color:#3eccd0;
   --font-Primary-color: #00213e;
   --box-shadow: 6px 31px 30px -30px rgba(0, 0, 0, 0.5);
 }
