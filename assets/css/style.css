@@ -45,7 +45,6 @@ p {
 position: absolute;
 top: 0;
 }
-
 .navbar{
   background: rgba(0, 0, 0, 0.5);
   z-index: 9999;
@@ -53,3 +52,4 @@ top: 0;
   color: #fff;
   }
 }
+
