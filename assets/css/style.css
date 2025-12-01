@@ -2,12 +2,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400..700&display=swap');
 
-:root{
-  --font-primary:"El Messiri", sans-serif;
-  --font-secndery:"Outfit", sans-serif;
-  --primary-color:#000000;
-  --secendery-color:#3eccd0;
-  --Button-color:#292175;
+:root {
+  --font-primary: "El Messiri", sans-serif;
+  --font-secndery: "Outfit", sans-serif;
+  --primary-color: #000000;
+  --secendery-color: #3eccd0;
+  --Button-color: #292175;
   --font-Primary-color: #00213e;
   --box-shadow: 6px 31px 30px -30px rgba(0, 0, 0, 0.5);
 }
@@ -26,7 +26,14 @@ a {
   font-weight: bold;
 }
 
-h1, h2, h3, h4, h5, h6, p, ul {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
   margin: 0;
   padding: 0;
 }
@@ -38,18 +45,24 @@ p {
 
 /* end  */
 
-.top-menu{
+.top-menu {
   position: relative;
 }
-.carousel-fade{
-position: absolute;
-top: 0;
+
+.carousel-fade {
+  position: absolute;
+  top: 0;
 }
-.navbar{
+
+.navbar {
   background: rgba(0, 0, 0, 0.5);
   z-index: 9999;
-  .nav-link{
-  color: #fff;
+
+  .nav-link {
+    color: #fff;
   }
 }
 
+
+
+.
