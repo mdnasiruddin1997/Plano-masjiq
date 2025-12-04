@@ -45,15 +45,6 @@ p {
 
 /* end  */
 
-.top-menu {
-  position: relative;
-}
-
-.carousel-fade {
-  position: absolute;
-  top: 0;
-
-}
 
 .navbar {
   background: rgba(0, 0, 0, 0.5);
@@ -64,10 +55,6 @@ p {
     font-size: 18px;
     font-weight: 500;
   }
-}
-
-.carousel-item img {
-  justify-content: center;
 }
 
 
